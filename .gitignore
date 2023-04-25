@@ -1,0 +1,7 @@
+# Ignore build folder
+/_build/
+# Ignore temp folder
+/_temp/
+# Ignore tools
+/tools/*
+!/tools/tools_go_here.txt

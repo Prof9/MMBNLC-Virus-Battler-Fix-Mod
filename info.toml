@@ -1,0 +1,4 @@
+title = "Fix Virus Battler Rewards"
+version = "1.0.0"
+authors = [ "Prof. 9" ]
+requires_loader_version = ">=0.8.1"
